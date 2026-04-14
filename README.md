@@ -1,5 +1,7 @@
 # DevOps Capstone Project
 
+![CI Build](https://github.com/mutiarapeggia/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This project is part of the Coursera DevOps course.
 
 ## Features
